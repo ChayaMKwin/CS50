@@ -1,6 +1,8 @@
 # Credit Card Validator
 #### This is a simple credit card validator program written in Python.
 
+## Description
+
 📝 Input: You're asked to *enter your credit card number*.
 
 🛑 Validation: The program checks if what you entered is actually a number. If it's not, it tells you it's invalid and stops.
